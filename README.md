@@ -1,4 +1,4 @@
-# pico-totp# Raspberry Pi Pico/MicroPython 2FA TOTP Generator with RTC
+# Raspberry Pi Pico/MicroPython 2FA TOTP Generator with RTC
 
 Generates Time-based One-Time Password's (TOTP) using MicroPython, Raspberry Pi Pico and the [Pico Display Pack](https://shop.pimoroni.com/products/pico-display-pack).
 
